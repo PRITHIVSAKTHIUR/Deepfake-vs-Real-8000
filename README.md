@@ -1,3 +1,4 @@
+![6.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/vA2N-JPgpmrjDNw5-8Wmx.png)
 # **Deepfake-vs-Real-8000**  
 
 > **Deepfake-vs-Real-8000** is an image classification vision-language encoder model fine-tuned from **google/siglip2-base-patch16-224** for a single-label classification task. It is designed to detect whether an image is a deepfake or a real one using the **SiglipForImageClassification** architecture.  
