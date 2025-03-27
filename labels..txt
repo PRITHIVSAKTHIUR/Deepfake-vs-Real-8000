@@ -1,0 +1,4 @@
+  "id2label": {
+    "0": "Deepfake",
+    "1": "Real one"
+  },
